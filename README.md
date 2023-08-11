@@ -1,5 +1,6 @@
-# DS-Deloitte-070723
 
+# DS-Deloitte-070723
+iu
 This is the repository where all the lecture notes and resources will live. We will also be using this repo to publish checkpoints during the intensive period.
 
 # Written Instructions to Connect to This Repository:
@@ -33,3 +34,5 @@ git fetch upstream
 ```
 git merge upstream/main -m "meaningful message about what you're updating"
 ```
+
+7. test changes
